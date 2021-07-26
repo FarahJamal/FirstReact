@@ -1,9 +1,6 @@
 import React from 'react';
 import '../App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
 class Header extends React.Component{
 
   constructor(props){

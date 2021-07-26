@@ -5,7 +5,6 @@ import  HarryPotterData from './HarryPotterData.json';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
 
 class Main extends React.Component {
 
